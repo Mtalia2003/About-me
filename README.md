@@ -1,18 +1,51 @@
-# 💫 About Me:
-AI Undergrad & Tech Generalist<br><br>Driven by a curiosity for how things work—and how to break them. My toolkit spans from Machine Learning to Cybersecurity, fueled by a background in design and a love for gaming. Currently building projects that bridge the gap between intelligent data and human-centric experiences.
+<h1 align="left">Muhammad Taha</h1>
 
+###
 
-## 🌐 Socials:
-www.linkedin.com/in/@muhammad-taha-liaqat taham0670@gmail.com 
+<h4 align="left">AI specialist</h4>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mtalia2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Mtalia2003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mtalia2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
----
-[![](https://komarev.com/ghpvc/?username=Mtalia2003&icon=0&color=1)](https://visitcount.itsvg.in)
+<p align="left">3rd Year BS Artificial Intelligence student passionate about AI automation, intelligent systems, and emerging technologies. Interested in exploring real-world AI applications, problem-solving, and software development. Also highly curious about computer hardware with a deep interest in assembling, customizing, and optimizing high-performance and gaming PCs.</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<p align="left">✨ Building intelligent projects like Library Management Systems, AI-Powered Resume Analyzers, Job Prediction Systems, and Location-Based Encryption solutions.<br>📚 Currently working on **Autopentest** — an agentic web application designed to perform automated penetration testing on websites and generate detailed vulnerability reports.<br>🎯 Goal: To develop impactful software and AI-driven solutions that help students learn faster, work smarter, and achieve their goals more efficiently.</p>
+
+###
+
+<h2 align="left">Skill</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+</div>
+
+###
+
+<h6 align="left">Contact me</h6>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/muhammad-taha-liaqat" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="muhammadtaha1919@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="taham0670@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
