@@ -37,15 +37,13 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/muhammad-taha-liaqat" target="_blank">
+  <a href="www.linkedin.com/in/muhammad-taha-liaqat" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="muhammadtaha1919@outlook.com" target="_blank">
+  <a href="mailto:muhammadtaha1919@outlook.com" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
-  <a href="taham0670@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+
 </div>
 
 ###
