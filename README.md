@@ -13,6 +13,18 @@
 <p align="left">✨ Building intelligent projects like Library Management Systems, AI-Powered Resume Analyzers, Job Prediction Systems, and Location-Based Encryption solutions.<br>📚 Currently working on **Autopentest** — an agentic web application designed to perform automated penetration testing on websites and generate detailed vulnerability reports.<br>🎯 Goal: To develop impactful software and AI-driven solutions that help students learn faster, work smarter, and achieve their goals more efficiently.</p>
 
 ###
+## 🚀 Projects Overview
+
+| Project Name | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **Library Management System** | A comprehensive system to manage book inventories, student borrowing records, and automated overdue fine calculations. | Python, SQL, Tkinter / Flask | Completed |
+| **Job Prediction Model** | A machine learning model that predicts job placement success and optimal career paths based on user profiles, skills, and academic history. | Python, Scikit-Learn, Pandas, Streamlit | Completed |
+| **Resume Analyzer** | An AI-powered tool that parses resumes, extracts key skills, and scores them against job descriptions using Natural Language Processing. | Python, Spacy, NLTK, Streamlit | Completed |
+| **Student GPA Calculator App** | A clean, user-friendly mobile/desktop application allowing students to track semesters, calculate cumulative GPA, and simulate future grade scenarios. | Flutter / React Native, Dart / JS | Completed |
+| **Yaad Rakh (To-Do App)** | A minimalistic, intuitive task management application featuring category tags, priority levels, and local storage persistence. | HTML, CSS, JavaScript / React | Completed |
+| **LangChain RAG Chatbot** | An advanced conversational agent built using Retrieval-Augmented Generation (RAG) to chat with custom knowledge bases and documents with high accuracy. | Python, LangChain, OpenAI API, Vector DB | Completed |
+| **Doc Analyzer** | An intelligent document processing application that extracts structural data, summaries, and key insights from PDF/Word documents using OCR and LLMs. | Python, PyPDF, HuggingFace, FastAPI | Completed |
+###
 
 <h2 align="left">Skill</h2>
 
