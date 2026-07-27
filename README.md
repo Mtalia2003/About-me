@@ -20,7 +20,7 @@
 | **Library Management System** | A comprehensive system to manage book inventories, student borrowing records, and automated overdue fine calculations. | JAVA | Completed |
 | **Job Prediction Model** | A machine learning model that predicts job placement success and optimal career paths based on user profiles, skills, and academic history. | Python, Scikit-Learn, Pandas, Flask | Completed |
 | **Resume Analyzer** | An AI-powered tool that parses resumes, extracts key skills, and scores them against job descriptions using Natural Language Processing. | Python, Gemini API, Flask | Completed |
-| **Student GPA Calculator App** | A clean, user-friendly mobile/desktop application allowing students to track semesters, calculate cumulative GPA, and simulate future grade scenarios. | Flutter, Hive | Completed |
+| **Traceit** | A community-driven lost and found board tailored for campuses or neighborhoods. | Flutter, Hive, Supabase | Completed |
 | **Yaad Rakh (To-Do App)** | A minimalistic, intuitive task management application featuring category tags, priority levels, and local storage persistence. | Flutter, Hive, Google Speech-to-Text API | Completed |
 | **LangChain RAG Chatbot** | An advanced conversational agent built using Retrieval-Augmented Generation (RAG) to chat with custom knowledge bases and documents with high accuracy. | Python, LangChain, OpenAI API, Vector DB | Completed |
 | **Doc Analyzer** | An intelligent document processing application that extracts structural data, summaries, and key insights from PDF/Word documents using OCR and LLMs. | React, Vanilla CSS, TipTap | Completed |
