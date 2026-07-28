@@ -24,7 +24,7 @@
 | **Yaad Rakh (To-Do App)** | A minimalistic, intuitive task management application featuring category tags, priority levels, and local storage persistence. | Flutter, Hive, Google Speech-to-Text API | Completed |
 | **LangChain RAG Chatbot** | An advanced conversational agent built using Retrieval-Augmented Generation (RAG) to chat with custom knowledge bases and documents with high accuracy. | Python, LangChain, OpenAI API, Vector DB | Completed |
 | **Doc Analyzer** | An intelligent document processing application that extracts structural data, summaries, and key insights from PDF/Word documents using OCR and LLMs. | React, Vanilla CSS, TipTap | Completed |
-| ** AI-Chatbot-with-Intent-Classification** | An intent-driven NLP chatbot that classifies user queries to deliver context-aware responses or identify out-of-scope requests. | Python, NLP, Fast Api | In-progress |
+| **AI-Chatbot-with-Intent-Classification** | An intent-driven NLP chatbot that classifies user queries to deliver context-aware responses or identify out-of-scope requests. | Python, NLP, Fast Api | In-progress |
 ###
 
 <h2 align="left">Skill</h2>
